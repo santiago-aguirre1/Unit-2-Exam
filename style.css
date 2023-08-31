@@ -1,0 +1,23 @@
+h2 {
+    color:yellow;
+    background-color:red;
+    font-size:35px;
+}
+.founded{
+    font-family:monospace;
+    font-size:20px
+}
+#computer{
+font-size:45px;
+background-color: bisque;
+
+}
+h1{
+    font-style: italic;
+    background-color: aqua;
+    color:purple
+}
+img{
+    height:350px;
+    width:350px;
+}
