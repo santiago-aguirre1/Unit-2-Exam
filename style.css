@@ -31,3 +31,14 @@ div.header{
 div.header:hover{
     color:skyblue;
 }
+
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+   }
+
+   .text {
+    font-size: 70px;
+  }
